@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shortcoder</string>
+    
+    <!-- Main Activity -->
+    <string name="no_shortcuts_yet">No Shortcuts Yet</string>
+    <string name="create_first_shortcut_message">Create your first shortcut to automate tasks and save time</string>
+    <string name="create_shortcut">Create Shortcut</string>
+    <string name="create_new">Create New</string>
+    <string name="create_automation">Create Automation</string>
+    <string name="sms_forwarding_rule">SMS Forwarding Rule</string>
+    
+    <!-- Navigation -->
+    <string name="nav_shortcuts">Shortcuts</string>
+    <string name="nav_automations">Automations</string>
+    <string name="nav_sms_forwarding">SMS Forwarding</string>
+    
+    <!-- Permissions -->
+    <string name="permissions_required">Permissions Required</string>
+    <string name="permissions_message">Shortcoder needs these permissions to provide automation and SMS forwarding functionality.</string>
+    <string name="grant">Grant</string>
+    <string name="deny">Deny</string>
+    <string name="all_permissions_granted">All permissions granted</string>
+    <string name="some_permissions_denied">Some permissions were denied. App functionality may be limited.</string>
+    
+    <!-- Actions -->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    
+    <!-- Shortcut Editor -->
+    <string name="shortcut_name">Shortcut Name</string>
+    <string name="shortcut_description">Description</string>
+    <string name="add_action">Add Action</string>
+    <string name="shortcut_saved">Shortcut saved</string>
+    
+    <!-- Automation Editor -->
+    <string name="automation_name">Automation Name</string>
+    <string name="automation_description">Description</string>
+    <string name="trigger">Trigger</string>
+    <string name="automation_saved">Automation saved</string>
+    
+    <!-- SMS Forwarding -->
+    <string name="sms_forwarding">SMS Forwarding</string>
+    <string name="forwarding_rules">Forwarding Rules</string>
+    <string name="add_rule">Add Rule</string>
+    <string name="rule_saved">Rule saved</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    
+    <!-- Automation Confirmation -->
+    <string name="automation_confirmation_title">Confirm Automation</string>
+    <string name="automation_confirmation_message">Do you want to execute this automation?</string>
+    <string name="confirm">Confirm</string>
+    
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_description">AI Button Detection Service for Shortcoder. This service automatically detects and clicks Send buttons in messaging apps to complete MMS forwarding without user interaction. It only monitors messaging apps and helps automate the MMS forwarding process.</string>
+</resources>
